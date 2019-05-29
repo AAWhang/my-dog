@@ -4,12 +4,12 @@
 
 #### By Aaron Whang
 
-##Description
+## Description
 
 _A webpage made for the purpose of demonstrating simple html commands such as adding links and images as well as formatting the code using proper indentation._
 
 
-##Setup
+## Setup
 
 Clone this repository.
 open my-dog-fav.Html
@@ -27,4 +27,4 @@ atom
 
 
 ### License
-Copyright (c) 2019 **_Aaron Whang_** 
+Copyright (c) 2019 **_Aaron Whang_**
