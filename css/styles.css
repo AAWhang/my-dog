@@ -1,3 +1,15 @@
 body {
   background-repeat: repeat-y;
 }
+
+.dark-background {
+  background-color: black;
+}
+
+.white-text {
+  color:white;
+}
+
+.light-background{
+  background-color: white;
+}
